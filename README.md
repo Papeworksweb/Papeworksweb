@@ -1,62 +1,60 @@
-<h1 align="center">👋 Salut, moi c'est Pape — Développeur Web Junior</h1>
+# 👨‍💻 Pape Seck — Développeur Web Junior
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge" />
-</p>
+Développeur web passionné, motivé et orienté progression.  
+J’aime créer des interfaces modernes, propres et efficaces tout en améliorant mes compétences chaque jour.  
+Actuellement concentré sur la maîtrise du **développement front-end**, je réalise des projets concrets pour bâtir un portfolio professionnel.
 
 ---
 
-## 🚀 À propos de moi
-Développeur web junior passionné par la création d’interfaces modernes, esthétiques et totalement responsives.  
-J’aime concevoir des sites web propres, rapides et fluides, tout en améliorant mes compétences front-end chaque jour.
+## 📄 À propos de moi
+- 🎓 Développeur Web Junior  
+- 💻 Spécialité : **HTML, CSS, JavaScript**  
+- 📱 Création d’interfaces modernes et responsive  
+- 🚀 Objectif : devenir développeur front-end professionnel  
+- 📍 Ouvert à des opportunités de stage ou missions
 
 ---
 
-## 🛠️ Compétences & Outils
-- **Front-end :** HTML, CSS, JavaScript  
-- **Outils :** VS Code, Git & GitHub  
-- **Déploiement :** Netlify
+## 🛠️ Compétences techniques
+
+### **Front-End**
+- HTML5  
+- CSS3 (Flexbox, Grid, Responsive Design)  
+- JavaScript (DOM, événements, animations)
+
+### **Outils & Technologies**
+- Git & GitHub  
+- VS Code  
+- GitHub Pages  
+- Netlify  
+- Méthodologie : travail propre, structuré et commenté
 
 ---
 
-## 📂 Projets récents
+## 📂 Projets professionnels
 
-### 🌐 **Portfolio personnel**
-Un portfolio moderne présentant mes projets et mes compétences.  
-👉 **Démo :** https://melodic-valkyrie-7b1a98.netlify.app
-
----
-
-### 🍽️ Site Restaurant  
-Landing page professionnelle avec sections animées et design responsive.  
-Structure claire + typographie moderne.  
+### 🔹 **Portfolio Personnel**
+- **Démo :** *https://melodic-valkyrie-7b1a98.netlify.app/*  
+- Décrit mon parcours, mes compétences et mes projets  
+- Design moderne et totalement responsive  
 
 ---
 
-### 🛋️ Site E-commerce Mondial Home  
-Site de vente de salon, inspiré d'un vrai e-commerce.  
-Design épuré + sections produits + interface utilisateur intuitive.
-
----
-
-> 💡 *Si vous souhaitez voir davantage de projets, ils sont disponibles dans mes repositories.*
-
----
-
-## 📈 Statistiques GitHub
-
-<div align="center">
-  
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Papeworksweb&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Papeworksweb&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+## 🎯 Objectifs 2025
+- Approfondir JavaScript (ES6+, APIs, modules)  
+- Apprendre **React**  
+- Réaliser **10+ projets professionnels** supplémentaires  
+- Construire un **portfolio complet** avec plusieurs démonstrations  
+- Obtenir un **stage ou première expérience professionnelle**
 
 ---
 
 ## 📫 Me contacter
-📧 **mamadoudiaseck46@gmail.com**  
-🌐 **Portfolio :** https://melodic-valkyrie-7b1a98.netlify.app
+📧 Email : **mamadoudiaseck46@gmail.com**  
+🔗 GitHub : https://github.com/Papeworksweb  
+🌐 Portfolio : *(https://melodic-valkyrie-7b1a98.netlify.app/)*  
+
+---
+
+Merci pour votre visite 👋  
+N’hésitez pas à consulter mes projets et suivre mon évolution.
